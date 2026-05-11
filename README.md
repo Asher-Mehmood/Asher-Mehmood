@@ -27,7 +27,7 @@ AI Engineer • Python Architect • Computer Vision • Automation • SaaS Bui
 - 🎯 Passionate about solving real-world problems using AI
 
 - 🌐 Portfolio: **https://ashermehmood.com**
-- 📫 Contact: **business@ashermehmood.com**
+- 📫 Contact: **ashermehmood03@gmail.com**
 
 ---
 
