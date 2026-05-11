@@ -1,14 +1,18 @@
 ![logo](https://github.com/Mehar-Asher/Mehar-Asher/blob/main/Github%20Banner.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Muhammad+Asher+Mehmood;Python+%7C+AI+%7C+ML+%7C+Automation+Engineer;Django+%7C+Computer+Vision+%7C+SaaS+Architect;Building+Production+Grade+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Muhammad+Asher+Mehmood;AI+Engineer+%7C+Python+Architect;Computer+Vision+%7C+Automation+%7C+SaaS+Builder;Building+Production+Grade+AI+Systems" />
 </p>
 
 <h1 align="center">🚀 Muhammad Asher Mehmood</h1>
 
 <h3 align="center">
-Python • AI/ML • Computer Vision • Automation • SaaS Development
+AI Engineer • Python Architect • Computer Vision • Automation • SaaS Builder
 </h3>
+
+<p align="center">
+🌐 https://ashermehmood.com | Pakistan 🇵🇰
+</p>
 
 ---
 
@@ -43,43 +47,74 @@ Python • AI/ML • Computer Vision • Automation • SaaS Development
 
 ---
 
-## ⚡ Tech Stack
+## 🚀 Featured Projects
 
-### Languages
+🎓 AI Smart Attendance Management System  
+🤖 Generative AI Applications  
+🏢 Multi-tenant SaaS Platforms  
+⚙ Enterprise Automation Solutions  
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp" />
-</p>
+---
 
-### Backend & APIs
+## ⚡ Technical Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs" />
-</p>
+<table>
 
-### Frontend
+<tr>
+<td width="220"><b>Languages</b></td>
+<td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
+Python • JavaScript • SQL • HTML/CSS • PHP
 
-### Databases
+</td>
+</tr>
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
-</p>
+<tr>
+<td><b>Backend</b></td>
+<td>
 
-### AI / ML
+Django • Django REST Framework (DRF) • FastAPI • REST API Design • JWT Authentication
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
+</td>
+</tr>
 
-### DevOps & Cloud
+<tr>
+<td><b>AI / ML / DL</b></td>
+<td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws" />
-</p>
+Machine Learning • Deep Learning • Computer Vision • Natural Language Processing
+
+</td>
+</tr>
+
+<tr>
+<td><b>Data Science</b></td>
+<td>
+
+Data Analysis • EDA • Data Visualization • Web Scraping
+
+</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>
+
+PostgreSQL • MySQL • SQLite • API Integration
+
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+Git • GitHub • Postman • Docker • CI/CD • Agile • Scrum
+
+</td>
+</tr>
+
+</table>
 
 ---
 
