@@ -1,4 +1,4 @@
-![logo](https://github.com/Mehar-Asher/Mehar-Asher/blob/main/Github%20Banner.png)
+![logo](https://github.com/Mehar-Asher/Mehar-Asher/blob/main/Banner.png)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+👋,+I'm+Muhammad+Asher+Mehmood;AI+Engineer+%7C+Python+Architect;Computer+Vision+%7C+Automation+%7C+SaaS+Builder;Building+Production+Grade+AI+Systems" />
