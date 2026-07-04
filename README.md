@@ -56,7 +56,7 @@ B2B **knowledge workspace** with hybrid search and **cited AI Q&A** over company
 - Workspaces, RBAC, team invites, analytics, audit log
 - Stack: **Django, React, PostgreSQL, pgvector, Celery**
 
-→ [ThinkForge AI on portfolio](https://ashermehmood.com/products.html)
+→ [ThinkForge AI on portfolio](https://ashermehmood.com/products)
 
 ---
 
