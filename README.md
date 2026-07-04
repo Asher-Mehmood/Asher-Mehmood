@@ -90,7 +90,6 @@ Full case studies: [ashermehmood.com/#portfolio](https://ashermehmood.com/#portf
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asher-Mehmood&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Asher Mehmood GitHub stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asher-Mehmood&theme=tokyonight&hide_border=true" alt="Asher Mehmood contribution streak" />
 </p>
 
