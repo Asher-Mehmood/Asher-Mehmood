@@ -1,63 +1,73 @@
 <!--
   GitHub Profile README
-  Paste this into: https://github.com/Asher-Mehmood/Asher-Mehmood/blob/main/README.md
+  Paste into: Asher-Mehmood/Asher-Mehmood/README.md
 
-  Profile settings (important for Google):
+  Profile settings:
   - Name: Muhammad Asher Mehmood
   - Bio: AI Engineer | Python · Django · FastAPI | SaaS Builder | ThinkForge AI
   - Website: https://ashermehmood.com
   - Location: Pakistan
-  - Company / Social: LinkedIn + portfolio links
+
+  Banner: upload Banner.png to this profile repo (same folder as README),
+  or keep using the Mehar-Asher banner URL below.
 -->
 
-# Muhammad Asher Mehmood
+![Muhammad Asher Mehmood — AI Engineer](https://raw.githubusercontent.com/Mehar-Asher/Mehar-Asher/main/Banner.png)
 
-**AI Engineer · Python Backend Engineer · SaaS Builder**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Asher+Mehmood;AI+Engineer+%7C+Python+Architect;Computer+Vision+%7C+Automation+%7C+SaaS+Builder;Building+Production+Grade+AI+Systems" alt="Muhammad Asher Mehmood typing animation" />
+</p>
 
-I build production-grade AI software, multi-tenant SaaS platforms, and backend systems with **Python, Django, and FastAPI**.
+<h1 align="center">Muhammad Asher Mehmood</h1>
 
-📍 Pakistan · 🌐 [ashermehmood.com](https://ashermehmood.com) · 💼 [LinkedIn](https://www.linkedin.com/in/asher-mehmood/) · ✉️ [ashermehmood03@gmail.com](mailto:ashermehmood03@gmail.com)
+<h3 align="center">
+AI Engineer • Python Architect • Computer Vision • Automation • SaaS Builder
+</h3>
 
----
-
-## About Muhammad Asher Mehmood (Asher Mehmood)
-
-I'm **Muhammad Asher Mehmood** (also known as **Asher Mehmood**), an AI Engineer and backend developer focused on:
-
-- Production **AI systems** and LLM-powered products
-- **Multi-tenant SaaS** architecture with Django / DRF
-- **API integrations**, automation, and scalable backends
-- **Computer vision** and practical ML for business use cases
-
-I care about shipping software that is reliable, maintainable, and useful in real business environments — not demos.
+<p align="center">
+🌐 <a href="https://ashermehmood.com">ashermehmood.com</a> ·
+💼 <a href="https://www.linkedin.com/in/asher-mehmood/">LinkedIn</a> ·
+✉️ <a href="mailto:ashermehmood03@gmail.com">ashermehmood03@gmail.com</a> ·
+Pakistan 🇵🇰
+</p>
 
 ---
 
-## Flagship Product
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### [ThinkForge AI](https://ashermehmood.com/products.html)
+## About Me
+
+I'm **Muhammad Asher Mehmood** (also known as **Asher Mehmood**), an AI Engineer and backend developer who builds production-grade AI software, multi-tenant SaaS platforms, and scalable backends with **Python, Django, and FastAPI**.
+
+- Currently building **Generative AI & production SaaS platforms**
+- Exploring **Deep Learning, LLMs, Computer Vision & Agentic AI**
+- Specialized in **Python, Django, automation & AI system design**
+- Building scalable **multi-tenant SaaS architectures**
+- Portfolio: **[ashermehmood.com](https://ashermehmood.com)**
+- Contact: **ashermehmood03@gmail.com**
+
+---
+
+## Flagship Product — ThinkForge AI
 
 B2B **knowledge workspace** with hybrid search and **cited AI Q&A** over company documents.
 
-- Document upload & indexing (PDF, DOCX, TXT, Markdown)
-- Hybrid search (keyword + semantic)
-- RAG chat with source citations
+- Document upload & indexing · Hybrid search · RAG chat with citations
 - Workspaces, RBAC, team invites, analytics, audit log
+- Stack: **Django, React, PostgreSQL, pgvector, Celery**
 
-Built with **Django, React, PostgreSQL, pgvector, Celery**.
-
-→ Portfolio: [ashermehmood.com](https://ashermehmood.com) · Product page: [ThinkForge AI](https://ashermehmood.com/products.html)
+→ [ThinkForge AI on portfolio](https://ashermehmood.com/products.html)
 
 ---
 
-## Featured Work
+## Featured Projects
 
 | Project | Focus |
 |--------|--------|
 | **ThinkForge AI** | Knowledge workspace, RAG, hybrid search, multi-tenant SaaS |
-| **Bizknot Courier Service** | Multi-API logistics platform, automation, production integrations |
+| **Bizknot Courier Service** | Multi-API logistics platform & automation |
 | **Face Recognition Attendance** | Computer vision attendance system |
-| **Heart Disease Prediction** | ML classification for clinical risk support |
+| **Heart Disease Prediction** | ML for clinical risk support |
 | **Cancer Data Visualization** | Research data analysis & visualization |
 | **Smart Voice Home Automation** | Voice-driven control systems |
 
@@ -65,53 +75,64 @@ Full case studies: [ashermehmood.com/#portfolio](https://ashermehmood.com/#portf
 
 ---
 
-## Tech Stack
+## Technical Skills
 
 | Area | Technologies |
 |------|----------------|
-| **Languages** | Python, JavaScript, SQL, HTML/CSS |
-| **Backend** | Django, Django REST Framework, FastAPI, JWT, REST APIs |
-| **AI / ML** | LLMs, RAG, Computer Vision, NLP, Machine Learning |
-| **Data** | PostgreSQL, Redis, pgvector, analytics |
-| **Infra & tools** | Docker, Git, GitHub, CI/CD, Postman, Celery |
+| **Languages** | Python • JavaScript • SQL • HTML/CSS |
+| **Backend** | Django • DRF • FastAPI • REST APIs • JWT |
+| **AI / ML** | LLMs • RAG • Computer Vision • NLP • Machine Learning |
+| **Data** | PostgreSQL • Redis • pgvector • MySQL |
+| **Tools** | Git • GitHub • Docker • CI/CD • Postman • Celery |
 
 ---
 
-## What I Build
+## Connect With Me
 
-- AI-powered SaaS and internal tools
-- Backend systems and API platforms
-- Business automation with Python
-- Multi-tenant architectures
-- Document intelligence (search + cited answers)
-
----
-
-## Connect
-
-| | |
-|---|---|
-| **Portfolio** | [https://ashermehmood.com](https://ashermehmood.com) |
-| **LinkedIn** | [linkedin.com/in/asher-mehmood](https://www.linkedin.com/in/asher-mehmood/) |
-| **Email** | [ashermehmood03@gmail.com](mailto:ashermehmood03@gmail.com) |
-| **GitHub** | [github.com/Asher-Mehmood](https://github.com/Asher-Mehmood) |
+<p align="left">
+  <a href="https://www.linkedin.com/in/asher-mehmood/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" alt="LinkedIn — Muhammad Asher Mehmood" />
+  </a>
+  &nbsp;
+  <a href="https://ashermehmood.com/">
+    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="35" alt="Portfolio — ashermehmood.com" />
+  </a>
+  &nbsp;
+  <a href="mailto:ashermehmood03@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" alt="Email Muhammad Asher Mehmood" />
+  </a>
+</p>
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Asher-Mehmood&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=334155" alt="Muhammad Asher Mehmood GitHub stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Asher-Mehmood&theme=transparent&hide_border=true" alt="Asher Mehmood contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asher-Mehmood&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Asher Mehmood GitHub stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asher-Mehmood&theme=tokyonight&hide_border=true" alt="Asher Mehmood contribution streak" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asher-Mehmood&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=334155" alt="Top languages — Muhammad Asher Mehmood" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asher-Mehmood&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages — Muhammad Asher Mehmood" />
 </p>
 
 ---
 
+## Current Focus
+
+```python
+while True:
+    learn()
+    build()
+    automate()
+    scale()
+```
+
+---
+
 <p align="center">
-  <b>Muhammad Asher Mehmood</b> — AI Engineer building production software with Python, Django & FastAPI.<br/>
-  <a href="https://ashermehmood.com">Portfolio</a> · <a href="https://www.linkedin.com/in/asher-mehmood/">LinkedIn</a> · <a href="mailto:ashermehmood03@gmail.com">Email</a>
+  <b>Muhammad Asher Mehmood</b> — turning ideas into intelligent systems<br/>
+  <a href="https://ashermehmood.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/asher-mehmood/">LinkedIn</a> ·
+  <a href="mailto:ashermehmood03@gmail.com">Email</a>
 </p>
