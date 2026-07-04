@@ -87,46 +87,12 @@ Full case studies: [ashermehmood.com/#portfolio](https://ashermehmood.com/#portf
 
 ---
 
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/asher-mehmood/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" alt="LinkedIn — Muhammad Asher Mehmood" />
-  </a>
-  &nbsp;
-  <a href="https://ashermehmood.com/">
-    <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="35" alt="Portfolio — ashermehmood.com" />
-  </a>
-  &nbsp;
-  <a href="mailto:ashermehmood03@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35" alt="Email Muhammad Asher Mehmood" />
-  </a>
-</p>
-
----
-
 ## GitHub Stats
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Asher-Mehmood&show_icons=true&theme=tokyonight&hide_border=true" alt="Muhammad Asher Mehmood GitHub stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asher-Mehmood&theme=tokyonight&hide_border=true" alt="Asher Mehmood contribution streak" />
 </p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asher-Mehmood&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages — Muhammad Asher Mehmood" />
-</p>
-
----
-
-## Current Focus
-
-```python
-while True:
-    learn()
-    build()
-    automate()
-    scale()
-```
 
 ---
 
